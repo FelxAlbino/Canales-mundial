@@ -1,2 +1,2 @@
 # Canales-mundial
-Lista m3u8
+Lista m3u
